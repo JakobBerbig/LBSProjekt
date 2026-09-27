@@ -10,6 +10,7 @@ Folgende Dienste sollen auf den Server betrieben werden:
 - PXE Server, Software Deploy- und Management mit OPSI
 - Domain Controller und DNS Server mit SAMBA
 - DHCP Server mit ISC Kea DHCP
-Als Testsysteme werden Virtualisierte- als auch Bare Metal Windows 11 und Linux Maschienen verwendet.
 
-Die Engesetzten Betriebssysteme und Software ist (mit ausnahme von Windows 11)  Open Source und Lizenzfrei. 
+Als Testsysteme werden Virtualisierte- als auch Bare Metal Windows 11 und Linux Installationen verwendet.
+
+Die eingesetzten Betriebssysteme, Dienste und Software sind (mit ausnahme von Windows 11)  Open Source und Lizenzfrei. 
