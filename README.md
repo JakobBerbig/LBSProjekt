@@ -3,7 +3,7 @@ Repository zur Dokumentation unserer Projektarbeit in der Berufsschule.
 
 Der Gesamte Projektentwurf ist unter: Projektenwurf.md abgelegt.
 
-## Projektentwurf:
+## Zusammenfassung:
 Auf einem Proxmox Server sollen Linux Server sowie Windows Clients virtualisiert werden. 
 Folgende Dienste sollen auf den Server betrieben werden:
 - Security Information and Event Management (SIEM) mit Wazuh
